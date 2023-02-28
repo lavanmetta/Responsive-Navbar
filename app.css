@@ -63,9 +63,7 @@
     display: none;
  }
 
- .items {
-    height: 94vh;
- }
+
 
  @media screen and (max-width: 768px) {
     .icon {
@@ -102,15 +100,6 @@
        
      }
 
-    .animate {
-        transform: translateX(-100vw);
-        transition: transform .5s ease, opacity ease .2s;
-    }
-
-     .animation {
-        transform: translateX(0vw);
-        transition: transform .5s ease, opacity ease .2s;
-    }
      
 
  }

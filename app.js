@@ -13,7 +13,5 @@ hamBurgerBtn.addEventListener('click', function() {
    
     hamBurgerBtn.classList.toggle("ri-menu-unfold-fill")
 
-    links.classList.toggle('animation')
-
-    links.classList.add('animation')
+    
 })
